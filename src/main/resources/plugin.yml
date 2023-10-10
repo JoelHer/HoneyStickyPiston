@@ -1,6 +1,6 @@
 name: HoneyStickyPistons
 version: ${project.version}
 main: de.herbst.honeystickypistons.HoneyStickyPistons
-api-version: 1.16
+api-version: 1.19
 authors: [ iHouqLF ]
 description: This is a Plugin for a recipe for sticky pistons, but you can also use honey to craft sticky pistons.

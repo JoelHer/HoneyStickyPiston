@@ -53,4 +53,3 @@ public final class HoneyStickyPistons extends JavaPlugin {
         Bukkit.getConsoleSender().sendMessage(PREFIX + text);
     }
 }
-a
